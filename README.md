@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aster7725
+- 👋 Hi, I’m Ruhi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
